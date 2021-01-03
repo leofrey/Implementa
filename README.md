@@ -8,3 +8,5 @@ Iniciar proyecto nodejs, ejecutando el codigo npm run dev EN LA RAIZ DEL PROYECT
 
 # Ejecutar Front
 Iniciar proyecto Angular en ruta/front ejecutar ng serve
+
+# CODIGO EN RAMA MASTER
